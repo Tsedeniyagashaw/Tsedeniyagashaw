@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tsedeniya</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
-- 👨‍💻 All of my projects are available at [https://tsedeniya-serene-cupcake-f26908.netlify.app/](https://tsedeniya-serene-cupcake-f26908.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tsedeniya-personal-portfolio.vercel.app/)
 
 - 📫 How to reach me **tsedeniyagashaw672@gmail.com**
 
