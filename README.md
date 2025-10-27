@@ -10,11 +10,8 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/tsedeniyagashaw/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tsedeniyagashaw672@gmail.com">
-    <img src="https://img.shields.io/badge/logo=gmail" alt="Email" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tsedeniyagashaw/)
+[![Gmail](https://img.shields.io/badge/Contact-red?logo=gmail&logoColor=white)](mailto:tsedeniyagashaw672@gmail.com)
+
 </p>
 
