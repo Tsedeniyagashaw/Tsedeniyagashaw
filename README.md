@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00bcd4;">Tsedeniya Gashaw</span></h1>
+<h1 align="center">Hi, I'm <span style="color:#00bcd4;">Tsedeniya Gashaw</span></h1>
 
 <p align="center">
   <strong>Frontend Developer | Building Full-Stack Skills</strong><br>
@@ -7,22 +7,6 @@
   📍 Ethiopia
 </p>
 
----
-
-### 🧠 About Me
-I'm passionate about building clean, responsive, and interactive web interfaces.  
-Currently sharpening my backend skills to become a **full-stack developer** capable of building complete web solutions.
-
----
-
-### ⚙️ Tech Stack
-| Category | Tools |
-|-----------|--------|
-| 💻 Frontend | React, JavaScript, Tailwind CSS |
-| ⚙️ Backend (Learning) | Node.js, Express |
-| 🧩 Tools | Git, VS Code, Figma |
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -34,6 +18,3 @@ Currently sharpening my backend skills to become a **full-stack developer** capa
   </a>
 </p>
 
----
-
-<p align="center">⭐ <em>"Building beautiful UIs today, full-stack apps tomorrow."</em></p>
