@@ -9,9 +9,6 @@
 
 
 ### 🌐 Connect with Me
-<p align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tsedeniyagashaw/)
-[![Gmail](https://img.shields.io/badge/Contact-red?logo=gmail&logoColor=white)](mailto:tsedeniyagashaw672@gmail.com)
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tsedeniyagashaw/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tsedeniyagashaw672@gmail.com)
 
