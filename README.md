@@ -9,4 +9,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tsedeniyagashaw/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tsedeniyagashaw672@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsedeniyagashaw&show_icons=true)
