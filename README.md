@@ -8,15 +8,6 @@
   📍 Based in Ethiopia 🇪🇹
 </p>
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&color=00bcd4&style=flat-square" alt="Profile views" />
-  </a>
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?color=00bcd4&style=flat-square" alt="GitHub followers" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 Technologies & Tools
@@ -40,43 +31,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tsedeniyagashaw&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsedeniyagashaw&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0d1117&stroke=00bcd4&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsedeniyagashawe&theme=dark&hide_border=true&background=0d1117&stroke=00bcd4&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4" alt="GitHub Streak" />
 </p>
 
----
 
-## 🎯 Featured Projects
-
-### 🔥 [Project Name 1](https://github.com/yourusername/project1)
-Brief description of your project - what it does, technologies used, and key features.
-![React](https://img.shields.io/badge/React-✓-00bcd4) ![Tailwind](https://img.shields.io/badge/Tailwind-✓-00bcd4)
-
-### 🌟 [Project Name 2](https://github.com/yourusername/project2)
-Another project description highlighting your skills and accomplishments.
-![JavaScript](https://img.shields.io/badge/JavaScript-✓-00bcd4) ![CSS3](https://img.shields.io/badge/CSS3-✓-00bcd4)
-
----
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:tsedeniyagashaw672@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/tsedeniyagashaw">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-00bcd4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+
 </p>
 
 ---
@@ -87,7 +61,4 @@ Another project description highlighting your skills and accomplishments.
 - [ ] UI/UX Design Principles
 - [ ] Backend Integration
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i><br>
-  ⭐ Star my repositories if you find something interesting!
-</p>
+
