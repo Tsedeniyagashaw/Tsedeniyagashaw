@@ -28,15 +28,16 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tsedeniyagashaw&show_icons=true&theme=dark&hide_border=true&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff&hide_title=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsedeniyagashaw&layout=compact&theme=dark&hide_border=true&title_color=00bcd4&text_color=ffffff" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tsedeniyagashaw&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsedeniyagashaw&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tsedeniyagashaw&theme=dark&hide_border=true&background=0d1117&stroke=00bcd4&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Tsedeniyagashaw&theme=dark" alt="GitHub Streak" />
 </p>
 
 
