@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <strong>Frontend Developer | Building Full-Stack Skills</strong><br>
+  <strong>Frontend Developer</strong><br>
   💻 React | JavaScript | Tailwind CSS<br>
-  🌱 Learning Node.js & Backend<br>
+  
   📍 Ethiopia
 </p>
 
