@@ -5,8 +5,7 @@
 <p align="center">
   <strong>Frontend Developer</strong><br>
   💻 React | JavaScript | Tailwind CSS<br>
-  
-  📍 Ethiopia
+             📍 Ethiopia
 </p>
 
 
