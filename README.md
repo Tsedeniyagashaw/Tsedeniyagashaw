@@ -1,8 +1,12 @@
-# 💫 About Me:
-Hello, I'm Tsedeniya Gashaw  
-**Frontend Developer | UI/UX Enthusiast**  
-💻 Crafting beautiful & functional web experiences  
-📍 Based in Ethiopia 🇪🇹
+
+<h1 align="center">
+  👋 Hello, I'm <span style="color:#00bcd4;text-shadow: 0 2px 4px rgba(0,188,212,0.3);">Tsedeniya Gashaw</span>
+</h1>
+<p align="center">
+  <strong>Frontend Developer | UI/UX Enthusiast</strong><br>
+  💻 Crafting beautiful & functional web experiences<br>
+  📍 Based in Ethiopia 🇪🇹
+</p>
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tsedeniyagashaw)
@@ -46,20 +50,4 @@ Hello, I'm Tsedeniya Gashaw
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-# 📊 GitHub Stats:
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Tsedeniyagashaw&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tsedeniyagashaw&theme=dark&hide_border=true)
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsedeniyagashaw&theme=dark&hide_border=true&layout=compact&langs_count=8)
-  
-</div>
 
----
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Tsedeniyagashaw&icon=0&color=12)](https://visitcount.itsvg.in)
-
-</div>
