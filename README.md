@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hello, I'm <span style="color:#00bcd4;text-shadow: 0 2px 4px rgba(0,188,212,0.3);">Tsedeniya Gashaw</span>
+  <span class="wave-hand">👋</span> Hello, I'm <span style="color:#00bcd4;text-shadow: 0 2px 4px rgba(0,188,212,0.3);">Tsedeniya Gashaw</span>
 </h1>
 
 <p align="center">
