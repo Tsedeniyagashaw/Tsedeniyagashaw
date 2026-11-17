@@ -17,7 +17,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 - 🌍 Software engineer based in **Ethiopia** 🇪🇹
 - 🚀 Full-stack developer who loves turning ideas into clean, fast, usable products
