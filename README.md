@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsedeniyagashaw)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tsedeniyagashaw672@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tsedeniya_g)
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=00bcd4&style=flat-square)
+
 
 </div>
 
