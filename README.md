@@ -4,8 +4,7 @@
 
 # ሰላም! 👋 I'm Tsedeniya Gashaw
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;MERN+Stack+Developer;Crafting+beautiful+%26+functional+web+experiences;Based+in+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing intro" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;MERN+Stack+Developer;Crafting+beautiful+%26+functional+web+experiences;Based+in+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing intro" />
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsedeniyagashaw)
