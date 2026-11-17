@@ -1,52 +1,106 @@
+<!-- ⚙️ SETUP: find & replace YOUR_USERNAME with your GitHub username (2 minutes, see notes at the bottom) -->
 
-<h1 align="center">
-  👋 Hello, I'm <span style="color:#00bcd4;text-shadow: 0 2px 4px rgba(0,188,212,0.3);">Tsedeniya Gashaw</span>
-</h1>
-<p align="center">
-  <strong>Frontend Developer | UI/UX Enthusiast</strong><br>
-  💻 Crafting beautiful & functional web experiences<br>
-  📍 Based in Ethiopia 🇪🇹
-</p>
+<div align="center">
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tsedeniyagashaw)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsedeniyagashaw672@gmail.com)
+# ሰላም! 👋 I'm Tsedeniya Gashaw
 
-# 💻 Tech Stack:
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;MERN+Stack+Developer;Crafting+beautiful+%26+functional+web+experiences;Based+in+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing intro" />
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<br>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsedeniyagashaw)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tsedeniyagashaw672@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tsedeniya_g)
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=00bcd4&style=flat-square)
 
-### Development Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+</div>
 
-### Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+---
 
-### Deployment & Hosting
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+## 🧑‍💻 About Me
+
+- 🌍 Software engineer based in **Ethiopia** 🇪🇹
+- 🚀 Full-stack developer who loves turning ideas into clean, fast, usable products
+- 🌱 Currently deepening my skills in the **MERN stack**
+- 🤝 Open to **freelance work**, **full-time roles**, and **collaborations**
+- 🎧 Powered by music while I code
+- 💬 Ask me about React, Node.js, or building full-stack apps from scratch
+
+---
+
+## 🔭 Currently Working On
+
+| | |
+|---|---|
+| 🛒 **Full-stack MERN e-commerce app** | Upgrading performance, security, structure, and UI |
+| 📚 **Learning** | Going deeper into the MERN stack |
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**<br>
+![HTML](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass&theme=light)
+
+**Backend & Databases**<br>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,php&theme=light)
+
+**Languages**<br>
+![Languages](https://skillicons.dev/icons?i=py,cpp,js&theme=light)
+
+**Tools, Design & Hosting**<br>
+![Tools](https://skillicons.dev/icons?i=git,github,vite,npm,figma,vercel,netlify&theme=light)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 MERN E-commerce App</h3>
+      <p>A full-stack online store with a focus on performance, security, and a polished UI.</p>
+      <p><img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /></p>
+      <a href="https://github.com/YOUR_USERNAME/YOUR_ECOMMERCE_REPO">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 Company ERP & Operations System</h3>
+      <p>A CRM/ERP platform for managing company operations end to end.</p>
+      <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white" /></p>
+      <a href="https://github.com/YOUR_USERNAME/YOUR_ERP_REPO">View Repo</a> · <a href="#">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+> 💡 Edit the project names, descriptions, and links above, or add more cards by copying a `<td>` block.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=00bcd4&icon_color=00bcd4&text_color=6e7681&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=00bcd4&text_color=6e7681" />
+
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4&sideLabels=6e7681&currStreakNum=6e7681&sideNums=6e7681&dates=6e7681" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=00bcd4&line=00bcd4&point=0e7490&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+
+---
 
 
+<div align="center">
+
+### 📫 Let's build something great together
+
+[![Telegram](https://img.shields.io/badge/Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tsedeniya_g)
+[![Email](https://img.shields.io/badge/Send_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsedeniyagashaw672@gmail.com)
+
+<sub>ሰላም ለሁላችሁ · Made with ☕ & 🎧 in Ethiopia</sub>
+
+</div>
