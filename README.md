@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e1f,100:15803d&height=180&section=header&text=Tsedeniya%20Gashaw&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=%20FJunior%20Software%20Engineer&descSize=18&descAlignY=60" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e1f,100:15803d&height=180&section=header&text=Tsedeniya%20Gashaw&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=%20Junior%20Software%20Engineer&descSize=18&descAlignY=60" alt="Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Crafting+beautiful+%26+functional+web+experiences;Turning+ideas+into+clean%2C+fast%2C+usable+products;Based+in+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing intro" />
 
